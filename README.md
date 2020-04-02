@@ -3,6 +3,7 @@ Different Cities  are connected by train routes. You have to tell the number of 
 
 You are given N number of cities , M number of tracks  and M pairs (P(i),Q(i)) denoting a track from P(i) to Q(i).
 
+Note: Train can move in one direction only.
 Input:
 
 1.First line contains T (number of testcases).
