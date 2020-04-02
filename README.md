@@ -1,5 +1,5 @@
 # Complex_Track
-Different Cities  are connected by train routes. You have to tell the number of total ways to travel from city X  to city Y passing through City Z and consisting of exactly L no. of tracks between them.
+Different Cities  are connected by train routes. You have to tell the number of total ways to travel from city X  to city Y passing through City Z and consisting of exactly L number  of tracks between X and Y.
 You are given N number of cities , M number of tracks  and M pairs (P(i),Q(i)) denoting a track from P(i) to Q(i).
 
 Input:
